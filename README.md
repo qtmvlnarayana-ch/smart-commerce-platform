@@ -29,29 +29,7 @@ This project is built to demonstrate real-world DevOps + GitHub workflow practic
 
 ## 🏗️ Project Architecture
 
-
-
-smart-commerce-platform/
-│
-├── frontend/
-│ └── index.html
-│
-├── backend/
-│ └── app.js
-│
-├── features/
-│ ├── authenticity/
-│ │ └── auth.js
-│ ├── pricing/
-│ │ └── pricing.js
-│ ├── reviews/
-│ │ └── review.js
-│ ├── delivery/
-│ │ └── delivery.js
-│
-├── docs/
-├── .gitignore
-└── README.md
+<img width="456" height="631" alt="image" src="https://github.com/user-attachments/assets/f2aa16d2-95c5-4e74-957e-cf56ce9684eb" />
 
 
 
