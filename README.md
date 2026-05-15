@@ -1,11 +1,11 @@
 # 🛒 Smart Commerce Platform
 
-## 📌 Project Overview
+##  Project Overview
 Smart Commerce Platform is a modular e-commerce backend system designed to simulate real-world product management features like authenticity verification, pricing transparency, reviews, and delivery availability.
 
----
 
-## 🚀 Why This Project?
+
+##  Why This Project?
 
 This project is built to demonstrate real-world DevOps + GitHub workflow practices:
 
@@ -15,19 +15,19 @@ This project is built to demonstrate real-world DevOps + GitHub workflow practic
 - Issue tracking
 - Clean repository management
 
----
 
-## 🎯 Top 5 Problems Solved
 
-1. ❌ Fake products → ✅ Authenticity verification
-2. ❌ Hidden pricing → ✅ Transparent pricing system
-3. ❌ No trust → ✅ Review & rating system
-4. ❌ Delivery confusion → ✅ Location-based delivery check
-5. ❌ Poor collaboration → ✅ GitHub PR workflow
+##  Top 5 Problems Solved
 
----
+1.  Fake products → Authenticity verification
+2.  Hidden pricing →  Transparent pricing system
+3.  No trust →  Review & rating system
+4.  Delivery confusion →  Location-based delivery check
+5.  Poor collaboration →  GitHub PR workflow
 
-## 🏗️ Project Architecture
+
+
+##  Project Architecture
 
 <img width="456" height="631" alt="image" src="https://github.com/user-attachments/assets/f2aa16d2-95c5-4e74-957e-cf56ce9684eb" />
 
@@ -36,25 +36,24 @@ This project is built to demonstrate real-world DevOps + GitHub workflow practic
 
 
 
----
 
-## ⚙️ Features Implemented
 
-### 🔐 Product Authenticity
+##  Features Implemented
+
+###  Product Authenticity
 - Verify genuine products
 
-### 💰 Pricing Transparency
+###  Pricing Transparency
 - Clear and visible pricing system
 
-### ⭐ Review System
+###  Review System
 - Users can add ratings & comments
 
-### 🚚 Delivery System
+###  Delivery System
 - Check availability by location
 
----
 
-## 🔄 Git + GitHub Workflow Used
+##  Git + GitHub Workflow Used
 
 - git init
 - git branch (feature-based)
@@ -68,19 +67,17 @@ This project is built to demonstrate real-world DevOps + GitHub workflow practic
 
 ---
 
-## 📊 GitHub Workflow Rating
+##  GitHub Workflow Rating
 
-| Area                     | Rating |
-|--------------------------|--------|
-| Branching Strategy       | ⭐⭐⭐⭐⭐ |
-| PR Workflow              | ⭐⭐⭐⭐⭐ |
-| Issue Management         | ⭐⭐⭐⭐☆ |
-| Repo Structure           | ⭐⭐⭐⭐☆ |
-| Real-world Simulation    | ⭐⭐⭐⭐⭐ |
+| Area                     |
+|-------------------------
+ Branching Strategy       
+ PR Workflow              
+ Issue Management         
+ Repo Structure           
+ Real-world Simulation    
 
----
-
-## 📌 Future Improvements
+## Future Improvements
 
 - Add database (MongoDB)
 - Convert to REST API
@@ -88,15 +85,12 @@ This project is built to demonstrate real-world DevOps + GitHub workflow practic
 - Dockerize application
 - CI/CD pipeline (GitHub Actions)
 
----
 
-## 👨‍💻 Author
+##  Author
 
 **Narayana**
 - GitHub: https://github.com/qtmvlnarayana-ch
 
----
-
-## ⭐ Conclusion
+##  Conclusion
 
 This project demonstrates a real-world development workflow using Git & GitHub with feature-based architecture and collaborative practices.          
